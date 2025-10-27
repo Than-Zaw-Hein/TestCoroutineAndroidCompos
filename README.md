@@ -39,6 +39,40 @@ UI Toolkit: Jetpack Compose
 
 Architecture: MVVM (Model-View-ViewModel)
 
+2. 🎨 Jetpack Compose Canvas Demo
+
+A modern Android demo showcasing how to **draw, animate, and visualize custom graphics** using the **Jetpack Compose Canvas API** — written entirely in **Kotlin**.  
+This project demonstrates how to create dynamic and animated visuals without XML layouts, ideal for learning and experimenting with low-level drawing in Compose.
+
+---
+
+## 🧠 Overview
+
+This demo illustrates:
+
+- Drawing **basic shapes** — circles, rectangles, and lines  
+- Using **Path** for custom curves and wave patterns  
+- Applying **linear gradients** for stylish backgrounds  
+- Adding **text** directly to Canvas  
+- Animating objects with `rememberInfiniteTransition`  
+- Combining Canvas drawings with modern Compose UI elements  
+
+Perfect for developers exploring **custom UI**, **game effects**, **data visualization**, or **animated art** in Compose.
+
+---
+
+## 🧩 Tech Stack
+
+| Component | Description |
+|------------|-------------|
+| **Language** | Kotlin |
+| **UI Toolkit** | Jetpack Compose |
+| **Animation** | `rememberInfiniteTransition`, `tween`, `infiniteRepeatable` |
+| **Graphics** | `Canvas`, `Path`, `Brush.linearGradient` |
+| **IDE** | Android Studio Iguana or newer |
+
+---
+
 ⚡ Getting Started
 
 To explore the testing implementation locally, follow these steps:
