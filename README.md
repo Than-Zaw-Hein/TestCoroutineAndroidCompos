@@ -45,7 +45,7 @@ To explore the testing implementation locally, follow these steps:
 
 Clone the Repository:
 
-git clone [https://github.com/Than-Zaw-Hein/TestCoroutineAndroidCompos.git](https://github.com/Than-Zaw-Hein/TestCoroutineAndroidCompos.git)
+git clone https://github.com/Than-Zaw-Hein/ComposeTutorial.git
 
 
 Open in Android Studio:
