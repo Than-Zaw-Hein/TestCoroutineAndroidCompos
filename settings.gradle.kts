@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TestCoroutine"
+rootProject.name = "ComposeTutorial"
 include(":app")
